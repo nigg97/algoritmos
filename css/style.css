@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ms+Madi&display=swap');
+body{
+    
+    background: rgb(212, 245, 224);
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: rgb(50, 10, 161);
+    margin-top: 100px;
+    transition: 10s;
+
+}
+h1{
+    color: rgb(201, 87, 253);
+    font-size: 80px;
+    /*transform: scale(1.2);*/
+    font-family: 'Ms Madi', cursive;
+}
+a img{
+    width:60px;
+}
+img{
+    width:100%;
+}
+#imgpredeterminada{
+    width: 100%;
+}
+#operaciones{
+    background-color: transparent;
+    font-size: 30px;
+    transition: 1s;
+    margin: 10px ;
+    font-family: 'Roboto Mono', monospace;
+}
+#numeromayor{
+    background-color: transparent;
+    font-size: 30px;
+    transition: 1s;
+    font-family: 'Roboto Mono', monospace;
+}
+#cuadrado{
+    background-color: transparent;
+    font-size: 30px;
+    transition: 1s;
+    font-family: 'Roboto Mono', monospace;
+}
+#areat{
+    background-color: transparent;
+    font-size: 30px;
+    transition: 1s;
+    font-family: 'Roboto Mono', monospace;
+}
+#ins{
+    background-color: transparent;
+    font-size: 30px;
+    transition: 1s;
+    font-family: 'Roboto Mono', monospace;
+}
+#fruteria{
+    background-color: transparent;
+    font-size: 30px;
+    transition: 1s;
+    font-family: 'Roboto Mono', monospace;
+}
+#suma{
+    background-color: transparent;
+    font-size: 30px;
+    transition: 1s;
+    font-family: 'Roboto Mono', monospace;
+}
+#algoritmos{
+    background:  url("../img/fondo.jpg");
+    background-size: cover;
+    background-repeat: none;
+    text-align:center ;
+    padding: 100;
+    font-family: 'Roboto Mono', monospace;
+}
+#alogortimos{
+
+    color:darkgreen;
+    font-size: 40px;
+
+}
+#algoritmos p{
+    color: rgb(97, 213, 241);
+    font-size: 30px;
+}
+h3{
+    color: rgb(201, 87, 253); 
+    font-size: 30px;
+    font-family: 'Roboto Mono', monospace;
+}
+p{
+    color: blue;
+    font-size: 30px;
+}
